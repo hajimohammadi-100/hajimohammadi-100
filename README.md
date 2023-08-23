@@ -13,11 +13,8 @@ I love programming with JavaScript and I'm always looking for interesting challe
 ### 🤝 Connect with me:
 
 <div align="left">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/mhhmohammadi" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />  
-  </a>
-    <a href="https://mhhmohammadi.ir" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/mhhmohammadi/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="30" alt="instagram logo"  />  
@@ -28,7 +25,7 @@ I love programming with JavaScript and I'm always looking for interesting challe
   <a href="https://t.me/hajimohammadi" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="30" alt="telegram logo"  />
   </a>
-    <a href="whatsapp://send?abid=+989026054699&amp;amp;text=Hello%2C%20World!" target="_blank" rel="noreferrer">
+    <a href="https://api.whatsapp.com/send?phone=989026054699" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="30" alt="whatsapp logo"  />  
   </a>
 </div>

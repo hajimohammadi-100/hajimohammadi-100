@@ -13,7 +13,7 @@ I love programming with JavaScript and I'm always looking for interesting challe
 ### 🤝 Connect with me:
 
 <div align="left">
-  <a href="www.linkedin.com/in/mhhmohammadi" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/mhhmohammadi" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />  
   </a>
   <a href="https://www.instagram.com/mhhmohammadi/" target="_blank" rel="noreferrer">
